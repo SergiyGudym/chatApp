@@ -1,0 +1,15 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Application for chatting",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Serhii Hudym",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
